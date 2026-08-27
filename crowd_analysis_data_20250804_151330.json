@@ -1,0 +1,39 @@
+{
+  "video_info": {
+    "path": "test 1.mp4",
+    "processed_frames": 10,
+    "total_detections": {
+      "persons": 137,
+      "faces": 39
+    }
+  },
+  "risk_analysis": {
+    "average_risk": 44.6,
+    "maximum_risk": 44.599999999999994,
+    "risk_distribution": {
+      "safe": 0,
+      "caution": 10,
+      "warning": 0,
+      "critical": 0
+    }
+  },
+  "emotion_distribution": {
+    "neutral": 13,
+    "fear": 12,
+    "anger": 7,
+    "surprise": 3,
+    "sad": 3,
+    "happy": 1,
+    "disgust": 0
+  },
+  "audio_analysis": {
+    "average_direction": 224.5041300743106,
+    "direction_variance": 7285.894169064802
+  },
+  "system_performance": {
+    "processing_fps": 3.2222222222222223,
+    "analysis_quality": "MEDIUM"
+  },
+  "frame_count": 10,
+  "analysis_timestamp": "2025-08-04T15:13:33.106382"
+}

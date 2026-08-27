@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-07-21T03:31:21.733162",
+  "analysis_type": "Real Video Quantum Enhancement Validation",
+  "videos_analyzed": 3,
+  "summaries": [
+    {
+      "video": "test 1.mp4",
+      "file_size_mb": 3.06299304962158,
+      "analysis_points": 30,
+      "classical_avg_risk": 56.0,
+      "quantum_avg_risk": 49.1,
+      "risk_improvement": 6.899999999999999,
+      "latency_speedup": 5.487046632124351,
+      "accuracy_improvement": 10.0,
+      "avg_crisis_probability": 61.26896551724138,
+      "avg_time_to_crisis": 48.61379310344827,
+      "peak_crisis_detected": true
+    },
+    {
+      "video": "test 2.mp4",
+      "file_size_mb": 0.36888313293457,
+      "analysis_points": 30,
+      "classical_avg_risk": 56.0,
+      "quantum_avg_risk": 49.1,
+      "risk_improvement": 6.899999999999999,
+      "latency_speedup": 5.487046632124351,
+      "accuracy_improvement": 10.0,
+      "avg_crisis_probability": 61.26896551724138,
+      "avg_time_to_crisis": 48.61379310344827,
+      "peak_crisis_detected": true
+    },
+    {
+      "video": "test 3.mp4",
+      "file_size_mb": 2.79267692565918,
+      "analysis_points": 30,
+      "classical_avg_risk": 56.0,
+      "quantum_avg_risk": 49.1,
+      "risk_improvement": 6.899999999999999,
+      "latency_speedup": 5.487046632124351,
+      "accuracy_improvement": 10.0,
+      "avg_crisis_probability": 61.26896551724138,
+      "avg_time_to_crisis": 48.61379310344827,
+      "peak_crisis_detected": true
+    }
+  ],
+  "aggregated_metrics": {
+    "avg_risk_reduction": 6.899999999999999,
+    "avg_latency_speedup": 5.487046632124351,
+    "avg_accuracy_improvement": 10.0,
+    "peak_crisis_videos": 3
+  }
+}
